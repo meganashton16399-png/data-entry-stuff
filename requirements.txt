@@ -2,5 +2,4 @@ python-telegram-bot
 playwright
 google-generativeai
 pdf2image
-reportlab
 python-dotenv
